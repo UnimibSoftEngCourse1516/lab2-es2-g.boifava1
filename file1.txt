@@ -3,3 +3,6 @@ first document
 ciao
 
 additional content
+
+##second document
+please see file2.txt for the second document
