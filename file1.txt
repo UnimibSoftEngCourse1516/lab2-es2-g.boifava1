@@ -3,3 +3,6 @@ first document
 ciao
 
 additional content
+
+#third document
+file3.txt
